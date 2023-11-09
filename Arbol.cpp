@@ -55,7 +55,7 @@ void Arbol::insertaRec(Nodo*&raiz,class medicamento *dato){
     }
 }
 
-void Arbol::actualizarArbol(ofstream &arch){
+void Arbol::actualizarArbol(ifstream &arch){
     
     int codigo;
     while(true){
@@ -66,13 +66,14 @@ void Arbol::actualizarArbol(ofstream &arch){
 }
 
 void Arbol::actualizaRec(Nodo*raiz,int codigobuscar){
+    if(raiz == nullptr) return;
     if(raiz->med->GetCodigo() == codigobuscar){
-        raiz->med
+        raiz->med->actualiza();
     }else{
-        if(raiz->med->GetCodigo() > codigobuscar
-            insertaRec(raiz->izq,codigobuscar);
+        if(raiz->med->GetCodigo() > codigobuscar)
+            actualizaRec(raiz->izq,codigobuscar);
         else
-            insertaRec(raiz->der,codigobuscar);
+            actualizaRec(raiz->der,codigobuscar);
     }    
 }
 

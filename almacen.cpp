@@ -24,7 +24,13 @@ void almacen::carga(){
 }
 
 void almacen::actualiza(){
+    ifstream arch("recarga.csv",ios::in);
+    if(!arch){
+        cout<<"ERROR: No se pudo abrir el archivo recarga.csv"<<endl;
+        exit(1);
+    }
     
+    arbolalma.actualizarArbol(arch);
 }
 
 void almacen::imprime(){

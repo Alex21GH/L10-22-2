@@ -5,9 +5,9 @@
 14075     CLOTRIMAZOL C/6 CPR VAG                              800    9.35   PERU                          
 14962     HIERRO DEXTRANO AMP4                                1220   46.75   DEUTSCHE PHARMA SAC            1292
 15098     LISINA CLOHRIDRATO 125MG T10                        4540   81.60   LABORATORIO ASTRAZENECA        1868
-16055     AMBROXOL C/20 TAB                                   1060   55.08   DEUTSCHE PHARMA SAC            1284
+16055     AMBROXOL C/20 TAB                                   1060   45.90   DEUTSCHE PHARMA SAC            1284
 16299     AZITROMICINA 500MG C/3T                             1500   49.30   JHONSON & JHONSON              1336
-16359     NAPROXENO 250 MG TAB C/30                           3860   90.78   LABORATORIOS FARMINDUSTRIA     1749
+16359     NAPROXENO 250 MG TAB C/30                           3860   75.65   LABORATORIOS FARMINDUSTRIA     1749
 16681     SIBUTRAMINA 10 MG C15                               2480   22.10   CHINA                         
 16813     VANCOMICINA 500MG SOL INY                            300    5.95   CHILE                         
 17645     KETOKONAZOL CRA 30GR                                2720   22.95   PERU                          
@@ -40,7 +40,7 @@
 30428     PROPAFENONA 150 MG/20 TAB                           2000   19.55   USA                           
 30430     PRUEBA DE EMBARAZO                                  2600   22.10   USA                           
 30690     VITAMINAS EMBARAZO 9 MESES C30                       580   41.65   DEUTSCHE PHARMA SAC            7833
-30796     PROPANOLOL 40 MG C/20 TAB                           2060   65.28   DEUTSCHE PHARMA SAC            1434
+30796     PROPANOLOL 40 MG C/20 TAB                           2060   54.40   DEUTSCHE PHARMA SAC            1434
 31189     CEFADROXILO 500MG C/16CAP                            300   40.80   PERU                          
 31311     METILPREDNISOLONA 500MG                             3020   65.45   JHONSON & JHONSON              1602
 31389     BETAMETASONA 4 MG/ML                                1820   52.70   BAYER S.A.                     1392
@@ -55,7 +55,7 @@
 34070     FEXOFENADINA C/10 180MG                             3580   73.10   BAYER S.A.                     1700
 34080     ELECTROLIT FRESA 500ML                              2700   60.35   DEUTSCHE PHARMA SAC            1546
 36208     ENALAPRIL T/30 10MG                                 2940   63.75   BAYER S.A.                     1588
-36622     TEOFILINA 20 TAB/100 MG                             2340   69.36   ABBOT LABORATORIOS S.A.        1483
+36622     TEOFILINA 20 TAB/100 MG                             2340   57.80   ABBOT LABORATORIOS S.A.        1483
 36649     CITALOPRAM 20MG 14T                                 4340   79.05   BAYER S.A.                     1833
 36711     TIBOLONA 2.5MG 30T                                   200   84.15   DEUTSCHE PHARMA SAC            1903
 36822     CLARITROMICINA 125MG SUSP                            750    9.35   PERU                          
@@ -64,7 +64,7 @@
 38648     PENICILINA V POT 400000U 20T                        3380   69.70   DEUTSCHE PHARMA SAC            1665
 39088     NORFLOXACINO T20 400MG                               800   11.90   CHINA                         
 39172     IBUPROFENO 400MG T10                                 620   41.65   LABORATORIO ASTRAZENECA        1256
-39779     OMEPRAZOL 20 MG C/14                                 260  102.00   LABORATORIOS FARMINDUSTRIA     1938
+39779     OMEPRAZOL 20 MG C/14                                 260   85.00   LABORATORIOS FARMINDUSTRIA     1938
 40645     VERAPAMILO 80 MG/20 TAB                             1400    4.25   USA                           
 40862     YODOPOVIDONA 120ML                                  4060   76.50   MEDIFARMA S.A                  1784
 40997     ELECTROLIT PED FRESA 625ML                           500   41.65   PERU                          
@@ -99,7 +99,7 @@
 53200     VITAMINA+OMEGA 3 30T                                3340   68.85   DEUTSCHE PHARMA SAC            1658
 53846     CLENBUTEROL .02MG 50T                               1380   47.60   BAYER S.A.                     1315
 54692     NAFAZOLINA SOL OFT 15 ml                            4280   28.90   MEXICO                        
-55021     AMOXICILINA 500MG/5ML SUSP                           176   98.94   JHONSON & JHONSON              1889
+55021     AMOXICILINA 500MG/5ML SUSP                           176   82.45   JHONSON & JHONSON              1889
 55439     FUMARATO FERROSO SUSP 120ML                         3500   72.25   BAYER S.A.                     1686
 55701     EUCALIPTO GUAYACOL PERLAS30                         1180   46.75   ABBOT LABORATORIOS S.A.        1290
 55813     SALBUTAMOL 4MG T30                                  2840   22.95   PERU                          
@@ -163,7 +163,7 @@
 79851     CEFOTAXIMA 1GR IM                                    212   84.15   DEUTSCHE PHARMA SAC            1910
 79996     LANSOPRAZOL 15 MG C/14                              5000   31.45   BRASIL                        
 80830     COMPLEJO B T30                                      4180   78.20   JHONSON & JHONSON              1805
-80839     CARBAMAZEPINA 120ML SUSP                            1660   61.20   LABORATORIOS FARMINDUSTRIA     1364
+80839     CARBAMAZEPINA 120ML SUSP                            1660   51.00   LABORATORIOS FARMINDUSTRIA     1364
 81062     PAROXETINA T/10 20MG                                 850    9.35   COLOMBIA                      
 81333     CARNITINA C/30                                       260   40.80   CHINA                         
 81695     LECHE DE MAGNESIA 180ML                             1400   15.30   COLOMBIA                      

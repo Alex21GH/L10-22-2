@@ -13,14 +13,14 @@ class Arbol {
 private:
     class Nodo *raiz;
     void insertaRec(Nodo*&raiz,class medicamento *dato);
-    void actualizaRec(Nodo*raiz);
+    void actualizaRec(Nodo*raiz,int);
     void imprimeRec(Nodo*raiz,ofstream &arch);
 public:
     Arbol();
     virtual ~Arbol();
     
     void creaArbol(ifstream &arch);    
-    void actualizarArbol(ofstream &arch);
+    void actualizarArbol(ifstream &arch);
     void imprimirArbol(ofstream &arch);
 };
 
